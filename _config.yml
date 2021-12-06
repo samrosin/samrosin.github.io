@@ -83,8 +83,8 @@ author:
   name             : "Samuel Rosin"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Biostatistics at the University of North Carolina at Chapel Hill"
-  location         : "Charlottesville, VA /"
-  location         : "Chapel Hill, NC"
+  location         : "Charlottesville, VA"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_asbwPkAAAAJ&hl=en&oi=ao"
